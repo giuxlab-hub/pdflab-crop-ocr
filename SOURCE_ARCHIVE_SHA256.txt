@@ -1,0 +1,2 @@
+b6662036f79007c7a2dee32507f32716b5c7ce9ffa23466cd34cee14df0fd63e  PDFLab_Crop_OCR_GiuxLab.zip
+Original distribution: /home/giu/Documenti/PDFLab/PDFLab_Crop_OCR_GiuxLab.zip

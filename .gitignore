@@ -1,0 +1,16 @@
+# Local user settings, original and processed PDFs
+*.pdf
+*.png
+*.jpg
+*.jpeg
+*.tif
+*.tiff
+*.txt.tmp
+*.bak
+*~
+.vscode/
+.idea/
+# User-created temporary directories and results
+Input_Originali/
+Lavoro_Temporaneo_PDF/
+Risultati/
